@@ -25,7 +25,7 @@ This script contains additional visualizations used in the paper.
 This experimental notebook contains the regional predictions and interpolations used to predict ground-level CO2 outside of ICOS stations.
 
 
-
+# Data
 The data used for the analysis is not supplied in this repository. Required Data:
 OCO2 observations: data/raw/OCO2_Europe_good_data.csv
 ICOS CO2 measurements: data/raw/ICOS_CO2_weather_euOct282023.csv
